@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/Input/Actions/IA_ChangeView.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/Input/IMC_Default.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/Core/Interfaces/I_Interactable.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/Core/Assets/BP_Door.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/N7/P4POYV87IG16ZDM8WQSSD2.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/JF/MXKH4LY9A9589FNZ7H5L2B.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/Core/Assets/BP_Coin.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/27/8O01173BW3FOO0XU9W2HO7.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/ZP/KRXQQY93OIL5IXW6XBDRTZ.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/0L/VF395J4PT6VDZLRH5ERKAW.uasset",
+				"C:/Users/QuimBaltronsIMata/Documents/Unreal Projects/Unreal_Test/Content/Core/Interfaces/I_Recolectable.uasset"
+			]
+		}
+	]
+}
